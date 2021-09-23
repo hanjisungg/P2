@@ -9,7 +9,9 @@ for i in range(n):
     y = y-10
     goto(x, y)
     down()
+up()
 goto(0, 0)
+down()
 right(90)
 y = 0
 x = 100/m 
